@@ -1,0 +1,4 @@
+﻿Machining safety:
+- Wear goggles and gloves.
+- Use guards and emergency stop.
+- Stop the machine before adjustments.
